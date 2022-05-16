@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[414],{5921:function(e){e.exports=JSON.parse('{"label":"hello","permalink":"/kuhlaid/blog/tags/hello","allTagsPath":"/kuhlaid/blog/tags","count":2}')}}]);
